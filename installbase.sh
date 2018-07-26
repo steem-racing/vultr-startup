@@ -27,7 +27,7 @@ clear
 
 ROOT_UID=0
 E_NOTROOT=1
-ADMIN_EMAIL=fowlk1kd@gmail.com
+ADMIN_EMAIL=anybucket@gmail.com
 DEBIAN_FRONTEND=noninteractive
 
 echoRed() {
