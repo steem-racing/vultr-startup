@@ -65,8 +65,8 @@ Optional - Run InstallBase:
 
 ```bash
 sudo su -
-bash <(wget -qO- https://raw.githubusercontent.com/kfowlks/vultr-startup/master/installbase.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/steem-racing/vultr-startup/master/installbase.sh)
 ```
 
-bash <(wget -qO- https://raw.githubusercontent.com/kfowlks/vultr-startup/master/installbase.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/steem-racing/vultr-startup/master/installbase.sh)
 
